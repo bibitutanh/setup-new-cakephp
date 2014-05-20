@@ -1,0 +1,27 @@
+/**
+ * backend.css
+ *
+ * Styles that apply to the backend layout views
+ */
+
+/* 
+ * vmenu icons for backend (be-vmenu uses the twitter bootstrap iconsprite by default) 
+ */
+.be-vmenu .menu-item-system > a:before {
+  background-position: -120px -96px !important; /* icon-info-sign */
+}
+.be-vmenu .menu-item-logs > a:before {
+  background-position: -264px -24px !important; /* icon-list-alt */
+}
+.be-vmenu .menu-item-cronjobs > a:before {
+  background-position: -48px -24px !important; /* icon-time */
+}
+.be-vmenu .menu-item-access_control > a:before {
+  background-position: -287px -24px !important; /* icon-lock */
+}
+.be-vmenu .menu-item-testing > a:before {
+  background-position: -144px -72px !important; /* icon-check */
+} 
+.be-vmenu .menu-item-appearance > a:before {
+  background-position: -144px -48px !important; /* icon-font */
+}

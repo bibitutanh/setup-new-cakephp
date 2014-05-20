@@ -1,0 +1,209 @@
+msgid "test translator"
+msgstr "姓を入力してください"
+
+msgid "Please fill in your last name"
+msgstr "姓を入力してください"
+
+msgid "Please fill in your first name"
+msgstr "名を入力してください"
+
+msgid "Please fill in your email"
+msgstr "メールアドレスを入力してください"
+
+msgid "Your email is not valid"
+msgstr "メールアドレスが不正な形式です"
+
+msgid "Please fill in your phone number"
+msgstr "電話番号を入力してください"
+
+msgid "Your phone number is not valid (03-456-6789 123-3456-7890 0123456789)"
+msgstr "お電話番号が不正な形式です (03-456-6789 123-3456-7890 0123456789)"
+
+msgid "Please select your first preferred date"
+msgstr "第一希望日を選択してください。"
+
+msgid "Your first preferred date is not valid"
+msgstr "第一希望日が不正です (YYYY-MM-DD)"
+
+msgid "Please select your second preferred date"
+msgstr "第二希望日を選択してください"
+
+msgid "Your second preferred date is not valid"
+msgstr "第二希望日が不正です (YYYY-MM-DD)"
+
+msgid "Sorry! Parameters had not been validated"
+msgstr "すみません！パラメータが検証されていなかった"
+
+msgid "Sorry! Please fill in required information"
+msgstr "すみません！必要な情報を記入してください"
+
+msgid "Relative"
+msgstr "ご本人様"
+
+msgid "Adult"
+msgstr "大人"
+
+msgid "Child"
+msgstr "子供"
+
+msgid "Baby"
+msgstr "幼児"
+
+msgid "Sorry! Can not establish mail function at this time. Please try again or contact our hotline"
+msgstr "Sumimasen"
+
+msgid "Please fill out this field"
+msgstr "入力してください"
+
+msgid "First preferred date must not be smaller than the current date"
+msgstr "第一希望日は現在の日付より後でなければいけません"
+
+msgid "Second preferred date must not be smaller than the current date"
+msgstr "第二希望日は現在の日付より後でなければいけません"
+
+msgid "There is a shortage in the description. Sorry for any trouble, but please check again"
+msgstr "記載内容に不足があります。 お手数をお掛けいたしますが再度御確認下さい"
+
+msgid "Your travel information"
+msgstr "ご旅行者情報"
+
+msgid "Name"
+msgstr "氏名"
+
+msgid "Romanized name"
+msgstr "ローマ字氏名"
+
+msgid "Passport name"
+msgstr "パスポート名称"
+
+msgid "Sex"
+msgstr "性別"
+
+msgid "Man"
+msgstr "男"
+
+msgid "Woman"
+msgstr "女"
+
+msgid "E-mail address"
+msgstr "メールアドレス"
+
+msgid "Phone number"
+msgstr "電話番号"
+
+msgid "Required"
+msgstr "必須"
+
+msgid "Not required"
+msgstr "指定なし"
+
+msgid "Inquiry"
+msgstr "お問い合わせ内容"
+
+msgid "I want to know the latest situation"
+msgstr "最新空き状況を知りたい"
+
+msgid "I want to book if there is a space"
+msgstr "空きがあれば予約したい"
+
+msgid "I want you to arrange this tour"
+msgstr "このツアーをアレンジして欲しい"
+
+msgid "Scheduled departure date, the number of participants"
+msgstr "出発予定日・参加人数"
+
+msgid "Depart"
+msgstr "出発予定日"
+
+msgid "First preferred date"
+msgstr "第一希望日"
+
+msgid "Second preferred date"
+msgstr "第二希望日"
+
+msgid "Number of participants"
+msgstr "参加人数"
+
+msgid "Person"
+msgstr "名"
+
+msgid "From 2 years old to 12 years old"
+msgstr "2歳以上、12歳未満"
+
+msgid "Under 2 years old"
+msgstr "2歳未満"
+
+msgid "Questions and Requests"
+msgstr "ご質問・ご要望"
+
+msgid "Contact us by phone"
+msgstr "お電話でのお問い合わせ"
+
+msgid "Tour Code"
+msgstr "ツアーコード"
+
+msgid "Overview of Travel"
+msgstr "旅行の概要"
+
+msgid "Tour title"
+msgstr "商品タイトル"
+
+msgid "Departure place"
+msgstr "出発地"
+
+msgid "Destination"
+msgstr "目的地"
+
+msgid "Hotel"
+msgstr "ホテル"
+
+msgid "Airlines"
+msgstr "航空会社"
+
+msgid "newcale_bread_crumb_title"
+msgstr "ニューカレッタ お見積もり・お問い合わせフォーム "
+
+msgid "chtahiti_bread_crumb_title"
+msgstr "チャンネルタヒチ お見積もり・お問い合わせフォーム"
+
+msgid "seatform_confirm_title"
+msgstr "空席照会・お問い合わせ内容のご確認｜海外旅行の専門店「旅工房」"
+
+msgid "seatform_confirm_meta_description"
+msgstr "海外旅行・国内旅行を取扱う総合旅行会社旅工房です。方面別専門制・専属担当制にて、スタッフがお客様のご旅行を詳しくご提案し、自在にアレンジ致します。"
+
+msgid "seatform_confirm_meta_keywords"
+msgstr "海外旅行,旅行会社,国内旅行,海外格安航空券,ホテル,出張,団体旅行,海外旅行傷害保険"
+
+msgid "seatform_complete_title"
+msgstr "空席照会・お問い合わせ内容の送信完了｜海外旅行の専門店「旅工房」"
+
+msgid "seatform_complete_meta_description"
+msgstr "海外旅行・国内旅行を取扱う総合旅行会社旅工房です。方面別専門制・専属担当制にて、スタッフがお客様のご旅行を詳しくご提案し、自在にアレンジ致します。"
+
+msgid "seatform_complete_meta_keywords"
+msgstr "海外旅行,旅行会社,国内旅行,海外格安航空券,ホテル,出張,団体旅行,海外旅行傷害保険"
+
+msgid "seatform_complete_text"
+msgstr "空席照会・お問い合わせを承りました。<br />担当コンシェルジュよりご連絡いたしますので、お待ちくださいませ。"
+
+msgid "seatform_book_title"
+msgstr "空席照会・お問い合わせ内容｜海外旅行の専門店「旅工房」"
+
+msgid "seatform_book_meta_description"
+msgstr "海外旅行・国内旅行を取扱う総合旅行会社旅工房です。方面別専門制・専属担当制にて、スタッフがお客様のご旅行を詳しくご提案し、自在にアレンジ致します。"
+
+msgid "seatform_book_meta_keywords"
+msgstr "海外旅行,旅行会社,国内旅行,海外格安航空券,ホテル,出張,団体旅行,海外旅行傷害保険"
+
+msgid "seatform_form_questions_and_requests_title"
+msgstr "例）　出発日のフライトの時間をもう少し早い時間に変更を希望します。<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最終日のホテルだけ変更を希望します。"
+
+msgid "Please select at least 1 adult"
+msgstr "必ず大人一名以上を選択してください。"
+
+msgid "There is no available tour in your first preferred date."
+msgstr "第一希望日に指定された日程にはツアーが存在しません。"
+
+msgid "There is no available tour in your second preferred date."
+msgstr "第二希望日に指定された日程にはツアーが存在しません。"

@@ -1,0 +1,119 @@
+msgid "Please fill in your last name"
+msgstr "Please fill in your last name"
+
+msgid "Please fill in your first name"
+msgstr "Please fill in your first name"
+
+msgid "Please fill in your email"
+msgstr "Please fill in your email"
+
+msgid "Your email is not valid"
+msgstr "Your email is not valid"
+
+msgid "Please fill in your phone number"
+msgstr "Please fill in your phone number"
+
+msgid "Your phone number is not valid (03-456-6789 123-3456-7890 0123456789)"
+msgstr "Your phone number is not valid (03-456-6789 123-3456-7890 0123456789)"
+
+msgid "Please select your first preferred date"
+msgstr "Please select your first preferred date"
+
+msgid "Your first preferred date is not valid"
+msgstr "Your first preferred date is not valid (YYYY-MM-DD)"
+
+msgid "Please select your second preferred date"
+msgstr "Please select your second preferred date"
+
+msgid "Your second preferred date is not valid"
+msgstr "Your second preferred date is not valid (YYYY-MM-DD)"
+
+msgid "Sorry! Parameters had not been validated"
+msgstr "Sorry! Parameters had not been validated"
+
+msgid "Sorry! Please fill in required information"
+msgstr "Sorry! Please fill in required information"
+
+msgid "Relative"
+msgstr "Relative"
+
+msgid "Adult"
+msgstr "Adult"
+
+msgid "Child"
+msgstr "Child"
+
+msgid "Baby"
+msgstr "Baby"
+
+msgid "Sorry! Can not establish mail function at this time. Please try again or contact our hotline"
+msgstr "Sorry! Can not establish mail function at this time. Please try again or contact our hotline"
+
+msgid "Please fill out this field"
+msgstr "Please fill out this field"
+
+msgid "First preferred date must be greater than the current date"
+msgstr "First preferred date must be greater than the current date"
+
+msgid "Second preferred date must be greater than the current date"
+msgstr 'Second preferred date must be greater than the current date'
+
+msgid "There is a shortage in the description. Sorry for any trouble, but please check again"
+msgstr "There is a shortage in the description. Sorry for any trouble, but please check again"
+
+msgid "Your travel information"
+msgstr "Your travel information"
+
+msgid "Name"
+msgstr "Name"
+
+msgid "E-mail address"
+msgstr "E-mail address"
+
+msgid "Phone number"
+msgstr "Phone number"
+
+msgid "Required"
+msgstr "Required"
+
+msgid "Not required"
+msgstr "Not required"
+
+msgid "Inquiry"
+msgstr "Inquiry"
+
+msgid "I want to know the latest situation"
+msgstr "I want to know the latest situation"
+
+msgid "I want to book if there is a space"
+msgstr "I want to book if there is a space"
+
+msgid "I want you to arrange this tour"
+msgstr "I want you to arrange this tour"
+
+msgid "Scheduled departure date, the number of participants"
+msgstr "Scheduled departure date, the number of participants"
+
+msgid "Depart"
+msgstr "Depart"
+
+msgid "First preferred date"
+msgstr "First date"
+
+msgid "Second preferred date"
+msgstr "Second date"
+
+msgid "Number of participants"
+msgstr "Number of participants"
+
+msgid "Person"
+msgstr " "
+
+msgid "From 2 years old to 12 years old"
+msgstr "2 - 12 years old"
+
+msgid "Under 2 years old"
+msgstr "< 2 years old"
+
+msgid "Questions and Requests"
+msgstr "Questions and Requests"
